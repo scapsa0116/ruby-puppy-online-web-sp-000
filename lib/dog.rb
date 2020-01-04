@@ -26,13 +26,4 @@ def save
     
     end
 
-# def self.create
-#     self.class.all << name
-#   end 
- 
-# def self.create
-#   dog = self.new
-#   @@all << dog
-#   dog
-# end
 end 
